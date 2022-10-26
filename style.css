@@ -1,0 +1,119 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+a:link {
+  padding: 100px;
+  margin: 20px;
+  font-size: 30px;
+  color: blue;
+  font-weight: 100px;
+}
+
+.main-content {
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+  display: block;
+}
+.Sedans-button {
+  border: 4px solid whitesmoke;
+  color: rgb(207, 144, 27);
+  padding: 1px;
+  background-color: white;
+  border-radius: 20px;
+  margin-top: 20px;
+  width: 100px;
+}
+
+.Sedan-top {
+  background-color: rgb(199, 134, 12);
+  height: 330px;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+  margin-top: 100px;
+}
+
+.P-Sedan {
+  padding-bottom: 40px;
+  font-size: 10px;
+  color: azure;
+}
+
+.Suvs-button {
+  border: 4px solid whitesmoke;
+  color: rgb(4, 124, 118);
+  padding: 1px;
+  background-color: white;
+  border-radius: 50px;
+  margin-top: 20px;
+  width: 100px;
+}
+
+.Suv-top {
+  background-color: rgb(4, 124, 118);
+  height: 330px;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+  display: block;
+  margin-top: 100px;
+}
+.Suvs {
+  font-size: 25px;
+  padding-bottom: 30px;
+  padding-top: 40px;
+  color: azure;
+}
+.P-Suv {
+  font-size: 10px;
+  color: azure;
+  padding-bottom: 40px;
+}
+.Sedan {
+  font-size: 25px;
+  padding-bottom: 30px;
+  padding-top: 40px;
+  color: azure;
+}
+.Luxury-top {
+  background-color: rgb(1, 70, 66);
+  height: 330px;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+  display: block;
+  margin-top: 100px;
+}
+.Luxury {
+  font-size: 25px;
+  padding-bottom: 30px;
+  padding-top: 40px;
+  color: azure;
+}
+
+.Luxury-button {
+  border: 4px solid whitesmoke;
+  color: rgb(1, 70, 66);
+  padding: 0.5px;
+  background-color: white;
+  border-radius: 50px;
+  margin-top: 20px;
+  width: 100px;
+}
+.P-Luxury {
+  font-size: 10px;
+  color: azure;
+  padding-bottom: 40px;
+}
+.Big-div {
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  padding-left: 20px;
+  padding-top: 80px;
+  border-radius: 50px;
+}
