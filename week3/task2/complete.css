@@ -1,0 +1,17 @@
+*{
+  padding:0;
+  margin:0;
+  box-sizing:border-box
+}
+
+.msg{
+  color:#0b6f0b;
+  font-size:30px;
+  
+}
+.com{
+  color:blue;
+  font-family: tahoma;
+  font-weight: 500px;
+  font-size: 15px;
+}
