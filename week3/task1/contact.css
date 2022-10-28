@@ -1,0 +1,53 @@
+*{
+  padding:0;
+  margin:0;
+  box-sizing: border-box;
+}
+
+
+span{
+  color:red;
+}
+.cont-us{
+  padding:5%;
+  font-size:50px;
+  background-color: grey;
+  text-align: center;
+  color:#3bd530;
+}
+
+.btn-spn{
+  text-align: center;
+}
+
+.foot{
+  background-color:grey;
+  text-align:right;
+  font-size:20px;
+/*   padding:5%; */
+  height:50px;
+  margin-top:5%;
+}
+
+.spn-f{
+  text-align:right;
+}
+
+input{
+  padding: 5px;
+}
+
+.f-name{
+  margin-top:15px;
+  margin-bottom: 15px;
+}
+
+.email{
+  margin-top:15px;
+  margin-bottom: 15px;
+  }
+
+.message{
+  margin-top:15px;
+  margin-bottom: 15px;
+}
